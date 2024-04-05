@@ -9,5 +9,10 @@ Estou adicionando este paragrafo como parte da atividade de pratica do github
 ## Alteraçao do conteúdo - Abraão 
 
 Estou adicionado este paragrafo como parte da atividade de pratica do github 
+<<<<<<< HEAD
 conflito sera criado 
+=======
+ 
+
+>>>>>>> 28ccab334454f081eb9f9fe88da58a25d07ae483
 
